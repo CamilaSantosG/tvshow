@@ -120,3 +120,7 @@ img {
   background-color: var(--color-img-bg);
   height: 177px;
 }
+hr{
+  color: antiquewhite;
+  border: 12px;
+}
